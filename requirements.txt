@@ -1,0 +1,9 @@
+termcolor
+pyfiglet
+yfinance
+quantstats
+datetime
+pytest
+unittest
+builtins
+ipython
