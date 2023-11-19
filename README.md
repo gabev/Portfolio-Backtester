@@ -1,5 +1,5 @@
 # Portfolio Backtester
- Video Demo:  https://youtu.be/h74_KYTAvcE
+ Video Demo:  https://youtu.be/LMbeaGuYC5g
     
     
 ## Description :
@@ -64,7 +64,7 @@ You can install the above libraries by running pip install -r requirements.txt a
 
 #### ** portfolio.py :
 
-- class Portfolio - instanciate the portfolio object
+- class Portfolio - instantiate the portfolio object
 - def symbol(self, symbol) - the setter for the symbol
 - def deposit(self, symbol, value) - 
 - @classmethod def get(cls) - sets the portfolio name
